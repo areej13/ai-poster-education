@@ -1,0 +1,5 @@
+{
+  "name": "Scientific Poster Generator",
+  "description": "An application that uses AI to generate content for scientific posters based on user-provided topics, authors, and keywords. It structures the output into standard poster sections like Introduction, Methods, Results, and Conclusion.",
+  "requestFramePermissions": []
+}
